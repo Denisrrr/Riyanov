@@ -24,7 +24,7 @@ class Vacancy:
 
 class DataSet:
     def __init__(self, file_name, vacancy_name):
-        self.file_name = file_name
+        self.file_name = filename_
         self.vacancy_name = vacancy_name
 
     @staticmethod
